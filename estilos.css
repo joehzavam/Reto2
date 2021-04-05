@@ -1,0 +1,42 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+h1{
+    font-size: 21px;
+    color: darkblue;
+    font-family: sans-serif;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+p{
+    font-size: 14px;
+    color: darkblue;
+    font-family: sans-serif;
+    margin-top: 0%;
+}
+
+
+input{
+    border: none;
+    width: 260px;
+    height: 45px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding-left: 15px;
+    font-weight: bold;
+    border-width: none;
+    border-radius: 20px;
+    
+}
+#enviar{
+    background-color: lightseagreen;
+    font-size: 15px;
+    color: white;
+    width: 130px;
+    height: 40px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
